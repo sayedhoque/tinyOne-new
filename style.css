@@ -1,0 +1,46 @@
+/*common Start*/
+@font-face{
+	font-family: Ptsans-Regular;
+	src:url(../fonts/PT_Sans/PTSans-Regular.ttf);
+}
+@font-face{
+	font-family: Ptsans-Bold;
+	src:url(../fonts/PT_Sans/PTSans-Bold.ttf);
+}
+@font-face{
+	font-family: Helvetica-Font;
+	src:url(../fonts/Helvetica-Font/Helvetica-Bold.ttf);
+}
+body{
+	
+	font-family: Ptsans-Regular;
+	font-size: 16px;
+	font-weight: 400;
+	color: #010101
+}
+/*header start*/
+header{
+	background-color: #fcbd00;
+	padding: 20px 0;
+}
+.c_nav{}
+.logo{}
+.menu ul li a{
+	font-size:22px; 
+	font-weight:700;
+	color:#010101!important;
+	padding: 0 35px !important;
+}
+.menu ul li:last-child a{
+	padding-right: 0 !important;
+}
+.menu ul li a:hover{
+	color: white !important;
+}
+
+/* header End*/
+/*slider start*/
+.slider{
+	background-color: #fcbd00;
+}
+/*slider start*/
